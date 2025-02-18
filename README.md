@@ -1,8 +1,11 @@
 - 👋 Hey guys, I’m Kwaku
-- 👀 I’m interested in learning new skills and improving everyday. Currently addicted to Data and Cloud
-- 🌱 I’m currently learning SQL,Python and EXcel
+- 🎓 Graduating in July 2025 and actively seeking exciting Software Engineering and Data roles
+- 👀 I’m interested in learning new skills and improving every day—currently addicted to Data and Cloud
+- 🌱 I’m currently learning SQL, Python, and Excel
+- 💻 Passionate about building innovative software solutions and exploring cutting-edge technology
+- 📊 Excited to harness data-driven insights to solve real-world problems
 
-- 📫 How to connect ith me:
+- 📫 How to connect with me:
 ![image](https://user-images.githubusercontent.com/111461216/185231867-7a1cf91b-4599-4637-9661-7edcb6244e61.png)
 -  www.linkedin.com/in/koonimoh
 
