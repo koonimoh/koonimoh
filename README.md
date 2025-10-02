@@ -1,5 +1,5 @@
 - 👋 Hey guys, I’m Kwaku
-- 🎓 Graduating in July 2025 and actively seeking exciting Software Engineering and Data roles
+- 🎓 Graduating in December 2025 and actively seeking exciting Software Engineering and Data roles
 - 👀 I’m interested in learning new skills and improving every day—currently addicted to Data and Cloud
 - 🌱 I’m currently learning SQL, Python, C++
 - 💻 Passionate about building innovative software solutions and exploring cutting-edge technology
