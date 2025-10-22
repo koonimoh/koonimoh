@@ -7,7 +7,7 @@
 
 - 📫 How to connect with me:
 ![image](https://user-images.githubusercontent.com/111461216/185231867-7a1cf91b-4599-4637-9661-7edcb6244e61.png)
--  www.linkedin.com/in/koonimoh
+-  www.linkedin.com/in/kwakuababio
 
 SKILLS:
 
